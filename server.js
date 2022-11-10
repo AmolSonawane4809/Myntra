@@ -1,6 +1,6 @@
 var  express=require('express');
 var app=express();
-Hello onnn
+
 //middleware setting
 
 app.use(express.static('public'));
